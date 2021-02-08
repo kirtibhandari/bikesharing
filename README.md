@@ -1,4 +1,4 @@
-# **"Bike-haring Analysis - Tableau (New York City)"**
+# **"Bike-sharing Analysis - Tableau (New York City)"**
 
 **Please visit : Tableau Public Link for Data Visualizations:**
 https://public.tableau.com/views/NewYorkCitibikewithTableau/CheckoutTimesforUsers?:language=en&:display_count=y&:origin=viz_share_link
